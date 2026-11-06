@@ -23,7 +23,7 @@ I'm **Shikhar Singh**, an Electronics & Communication Engineering undergraduate 
 - 🔧 I work with **Python, FastAPI, Node.js, Express.js, PostgreSQL, and Redis**.
 - 🤖 I build **RAG systems, LLM applications, and agentic workflows** using LangChain and LangGraph.
 - 🧩 I enjoy **DSA, system design, API engineering, and microservices**.
-- 🏆 Solved **500+ DSA problems** across LeetCode and GeeksforGeeks; **3-star CodeChef** rating (as listed on my resume).
+- 🏆 Solved **500+ DSA problems** across LeetCode and GeeksforGeeks; **3-star CodeChef** rating.
 - 🎯 Interested in **Software Engineer, Backend Engineer, and Generative AI Engineer** opportunities.
 
 ## 🛠️ Tech Stack
